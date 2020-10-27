@@ -1,6 +1,6 @@
 # XLM Gradient Drawable
 
-### Boilerplate
+## Boilerplate
 In order to create a gradient, you create an xml file in res/drawable. I am calling mine gradient.xml:
 
 ```
