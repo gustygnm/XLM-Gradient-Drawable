@@ -19,7 +19,7 @@ You set it to the background of some view. For example:
 <View
     android:layout_width="200dp"
     android:layout_height="100dp"
-    android:background="@drawable/my_gradient_drawable"/>
+    android:background="@drawable/gradient"/>
 ```
 
 ## type="linear"
